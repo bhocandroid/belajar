@@ -1,0 +1,24 @@
+// Repo Platform Manifest for cm10.1
+
+repo init -u git://github.com/CyanogenMod/android.git -b cm-10.1
+
+// Repo Repo Platform Manifest for for cm10.2
+
+repo init -u git://github.com/CyanogenMod/android.git -b cm-10.2
+
+// Repo Repo Platform Manifest for for slimroms 4.3
+
+repo init -u git://github.com/SlimRoms/platform_manifest.git -b jb4.3
+
+// Repo Repo Platform Manifest for for slimroms 4.2
+
+repo init -u git://github.com/SlimRoms/platform_manifest.git -b jb4.2
+
+// Repo Repo Platform Manifest for for SuperNexus 4.2
+
+repo init -u https://github.com/SuperNexus/android_manifest.git -b jellybean
+
+
+// Repo Repo Platform Manifest for for aokp
+
+repo init -u https://github.com/AOKP/platform_manifest.git -b jb-mr1

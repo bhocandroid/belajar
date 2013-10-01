@@ -1,0 +1,11 @@
+// Command Instal Java 6 on linux for build android
+
+sudo add-apt-repository ppa:webupd8team/java
+
+sudo apt-get update
+
+sudo apt-get install oracle-java6-installer
+
+sudo update-java-alternatives -s java-6-oracle
+
+sudo apt-get install oracle-java6-set-default
